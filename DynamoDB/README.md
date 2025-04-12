@@ -2,7 +2,6 @@
 
 This repository contains a comprehensive and hands-on guide to understanding and working with **Amazon DynamoDB**, a fully managed NoSQL database service provided by AWS. It includes detailed explanations, examples, and practical tasks for building scalable, high-performance backend systems using DynamoDB.
 
----
 
 ## 📌 What You'll Learn
 
@@ -16,14 +15,12 @@ This repository contains a comprehensive and hands-on guide to understanding and
 🔍 Querying, scanning, and using filters with DynamoDB Console  
 📚 **Use Cases**: From user profiles and session storage to e-commerce and gaming
 
----
 
 ## 🛠️ Tools Used
 
 - AWS Management Console
 - DynamoDB Web UI
 
----
 
 ## 📸 Screenshots & Output
 
@@ -33,7 +30,6 @@ The document includes:
 - JSON data examples for item creation
 - Console notifications and metrics (like RCU consumption and scan efficiency)
 
----
 
 ## 📚 Ideal For
 
@@ -42,11 +38,8 @@ The document includes:
 - Those preparing for AWS Solutions Architect Associate or Developer Associate certification
 - Anyone wanting a hands-on experience with Amazon DynamoDB
 
----
-
 **Author**: Ajinkya Pame  
 📧 Connect with me: [LinkedIN](https://www.linkedin.com/in/ajinkya-pame-4a752b346)
 
----
 
-> 📂 Don’t forget to check out the full document for in-depth knowledge and CLI examples.
+> 📂 Don’t forget to check out the full document for in-depth knowledge.
